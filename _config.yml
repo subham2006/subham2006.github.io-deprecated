@@ -3,7 +3,7 @@ description: Subham Mitra's personal website
 baseurl: /
 lowercase: keys
 
-theme: hacked-jekyll
+#theme: hacked-jekyll
 
 exclude:
   - LICENSE
