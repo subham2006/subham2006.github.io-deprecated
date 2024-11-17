@@ -1,0 +1,41 @@
+- key: Name
+  value: Subham Mitra
+- key: Description
+  value:
+    - Developer
+    -
+    - Chicagoan 
+    -
+    - Electrical Engineer
+    - 
+    - Entrepreneur
+    - 
+    - Hacker
+    -
+  typed: true
+- key: Resume
+  value: check it out
+  url: /cv.pdf
+- key: Educatiom
+  value:
+    - key: School
+      value: University of California, Berkeley
+    - key: Major
+      value: Electrical Engineering & Computer Science
+    - key: Attending
+      value: 2023 - now  
+- key: Contact
+  value:
+    - key: Phone
+      value: +1 224-202-1423
+    - key: Email
+      value: subham.mitra@berkeley.edu
+      url: "mailto:subham.mitra@berkeley.edu"
+- key: Profiles
+  value:
+    - value: GitHub
+      url: https://github.com/subham2006
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/subham--mitra/
+    - value: Instagram
+      url: https://www.instagram.com/subham_mit/

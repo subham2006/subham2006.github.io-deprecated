@@ -1,0 +1,19 @@
+title: Subham Mitra
+description: Subham Mitra's personal website
+baseurl: /
+lowercase: keys
+
+theme: hacked-jekyll
+
+exclude:
+  - LICENSE
+  - README.md
+  - vendor/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  sourcemap: never
+  
