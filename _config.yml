@@ -4,6 +4,7 @@ baseurl: /
 lowercase: keys
 
 #theme: hacked-jekyll
+
 remote_theme: piazzai/hacked-jekyll
 
 exclude:
