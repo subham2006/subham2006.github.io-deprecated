@@ -1,6 +1,6 @@
-- key: Name
+- key: name
   value: Subham Mitra
-- key: Description
+- key: description
   value:
     - Developer
     -
@@ -13,10 +13,10 @@
     - Hacker
     -
   typed: true
-- key: Resume
+- key: resume
   value: check it out
   url: /cv.pdf
-- key: Education
+- key: education
   value:
     - key: School
       value: University of California, Berkeley
@@ -24,14 +24,22 @@
       value: Electrical Engineering & Computer Science
     - key: Attending
       value: 2023 - now  
-- key: Contact
+- key: contact
   value:
     - key: Phone
       value: +1 224-202-1423
     - key: Email
       value: subham.mitra@berkeley.edu
       url: "mailto:subham.mitra@berkeley.edu"
-- key: Profiles
+- key: experience 
+  value:
+    - key: International Computer Science Institute
+      value: Research Assistant
+    - key: Mobile Developers of Berkeley
+      value: Technical Project Manager
+    - key: Stanford Graduate School of Business
+      value: Software Engineer
+- key: profiles
   value:
     - value: GitHub
       url: https://github.com/subham2006

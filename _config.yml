@@ -1,9 +1,9 @@
 title: Subham Mitra
 description: Subham Mitra's personal website
 baseurl: /
-lowercase: keys
+lowercase: false
 
-#theme: hacked-jekyll
+# theme: hacked-jekyll
 
 remote_theme: piazzai/hacked-jekyll
 
