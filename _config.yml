@@ -4,6 +4,7 @@ baseurl: /
 lowercase: false
 
 # theme: hacked-jekyll
+newtab: true
 
 remote_theme: piazzai/hacked-jekyll
 

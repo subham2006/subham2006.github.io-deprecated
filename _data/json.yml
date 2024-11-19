@@ -15,7 +15,7 @@
   typed: true
 - key: resume
   value: check it out
-  url: /cv.pdf
+  url: /resume.pdf
 - key: education
   value:
     - key: School
